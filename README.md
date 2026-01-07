@@ -1,0 +1,1 @@
+# midterm-item-manager-app
